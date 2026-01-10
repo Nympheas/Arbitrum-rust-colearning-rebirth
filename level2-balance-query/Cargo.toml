@@ -1,0 +1,12 @@
+[package]
+name = "level2-balance-query"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ethers = { version = "2.0.14", features = ["rustls"] }
+eyre = "0.6.12"
+tokio = { version = "1.49.0", features = ["full"] }
+[[bin]]
+name = "balance_query"
+path = "balance.rs"

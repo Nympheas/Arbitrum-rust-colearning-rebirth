@@ -11,3 +11,6 @@
 ### 2. 测试币领取
 - **领取渠道**: Alchemy / Arbitrum Bridge
 - **余额确认**: 账户已存入 0.1+ Sepolia ETH，用于部署合约及交互。
+3.rust检查测试余额
+/level2-balance-query/balance.rs
+![测试结果截图](./images/余额.png) 
