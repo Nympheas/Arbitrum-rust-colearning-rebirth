@@ -1,0 +1,10 @@
+/Users/mac/Desktop/code/Arbitrum-rust-colearning-rebirth/hello_alloy/target/debug/deps/alloy_transport_http-4da6e699d4d68ca4.d: /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/reqwest_transport.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/layers/mod.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/../README.md
+
+/Users/mac/Desktop/code/Arbitrum-rust-colearning-rebirth/hello_alloy/target/debug/deps/liballoy_transport_http-4da6e699d4d68ca4.rlib: /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/reqwest_transport.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/layers/mod.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/../README.md
+
+/Users/mac/Desktop/code/Arbitrum-rust-colearning-rebirth/hello_alloy/target/debug/deps/liballoy_transport_http-4da6e699d4d68ca4.rmeta: /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/reqwest_transport.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/layers/mod.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/../README.md
+
+/Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/reqwest_transport.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/layers/mod.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-transport-http-1.4.0/src/../README.md:

@@ -1,0 +1,10 @@
+/Users/mac/Desktop/code/Arbitrum-rust-colearning-rebirth/hello_alloy/target/debug/deps/alloy_signer_local-3a4a9570c174dd0e.d: /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/error.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/private_key.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/../README.md
+
+/Users/mac/Desktop/code/Arbitrum-rust-colearning-rebirth/hello_alloy/target/debug/deps/liballoy_signer_local-3a4a9570c174dd0e.rlib: /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/error.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/private_key.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/../README.md
+
+/Users/mac/Desktop/code/Arbitrum-rust-colearning-rebirth/hello_alloy/target/debug/deps/liballoy_signer_local-3a4a9570c174dd0e.rmeta: /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/error.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/private_key.rs /Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/../README.md
+
+/Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/error.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/private_key.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.4.0/src/../README.md:
