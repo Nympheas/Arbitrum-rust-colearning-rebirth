@@ -14,3 +14,7 @@
 3.rust检查测试余额
 /level2-balance-query/balance.rs
 ![测试结果截图](./images/余额.png) 
+
+4.gas费预估
+/level2-balance-query/gas-fee.rs
+![测试结果截图](./images/gas费预估.png.png) 

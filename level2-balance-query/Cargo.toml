@@ -10,3 +10,7 @@ tokio = { version = "1.49.0", features = ["full"] }
 [[bin]]
 name = "balance_query"
 path = "balance.rs"
+# 添加新的 Gas 费预估程序
+[[bin]]
+name = "gas_fee_estimator"
+path = "gas_fee.rs"
