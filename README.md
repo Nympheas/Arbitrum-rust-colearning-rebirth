@@ -17,4 +17,9 @@
 
 4.gas费预估
 /level2-balance-query/gas-fee.rs
-![测试结果截图](./images/gas费预估.png.png) 
+![测试结果截图](./images/gas费预估.png) 
+
+5.转账
+/level2-balance-query/transfer.rs
+![测试结果截图](./images/转账.png) 
+![测试结果截图](./images/浏览器.png) 

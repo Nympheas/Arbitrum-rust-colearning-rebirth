@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+dotenv = "0.15.0"
 ethers = { version = "2.0.14", features = ["rustls"] }
 eyre = "0.6.12"
 tokio = { version = "1.49.0", features = ["full"] }
@@ -14,3 +15,6 @@ path = "balance.rs"
 [[bin]]
 name = "gas_fee_estimator"
 path = "gas_fee.rs"
+[[bin]]
+name = "transfer"
+path = "transfer.rs"
