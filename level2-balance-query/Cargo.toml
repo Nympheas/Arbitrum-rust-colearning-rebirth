@@ -5,9 +5,10 @@ edition = "2024"
 
 [dependencies]
 dotenv = "0.15.0"
-ethers = { version = "2.0.14", features = ["rustls"] }
+ethers = { version = "2.0.14", features = ["rustls", "abigen"] }
 eyre = "0.6.12"
 tokio = { version = "1.49.0", features = ["full"] }
+# 必须加上 "abigen" 特性才能使用 abigen! 宏
 [[bin]]
 name = "balance_query"
 path = "balance.rs"
@@ -18,3 +19,6 @@ path = "gas_fee.rs"
 [[bin]]
 name = "transfer"
 path = "transfer.rs"
+[[bin]]
+name = "contract_read"
+path = "contract_read.rs"

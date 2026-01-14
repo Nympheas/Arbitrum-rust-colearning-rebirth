@@ -23,3 +23,7 @@
 /level2-balance-query/transfer.rs
 ![测试结果截图](./images/转账.png) 
 ![测试结果截图](./images/浏览器.png) 
+
+6.合约
+/level2-balance-query/contract_read.rs
+![测试结果截图](./images/合约.png)

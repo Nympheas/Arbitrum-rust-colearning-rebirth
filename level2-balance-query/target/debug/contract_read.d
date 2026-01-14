@@ -1,0 +1,1 @@
+/Users/mac/Desktop/code/Arbitrum-rust-colearning-rebirth/level2-balance-query/target/debug/contract_read: /Users/mac/Desktop/code/Arbitrum-rust-colearning-rebirth/level2-balance-query/contract_read.rs
